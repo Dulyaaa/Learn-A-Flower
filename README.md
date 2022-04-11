@@ -23,7 +23,7 @@ A mobile application to help anyone learn about flowers! 🌻
 |:--:|:--:|:--:|
 | *`figure 1.1: Log In Screen`* | *`figure 1.2: Admin page to view list of flowers as an admin`* | *`figure 1.5: Add new flower details`* |
 
-| <img alt="1PNG" height='600' src="https://user-images.githubusercontent.com/57215584/162658195-673b73a5-6592-4d17-8319-0076f0b111f5.png"> | <img  alt="2PNG" height='600' a src="https://user-images.githubusercontent.com/57215584/162658376-c0578881-0589-4dec-b770-3e276b58a550.png"> | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/162657737-df5f4320-7f6e-4089-a9ee-d5cf3c0fc649.png"> 
+| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/162658195-673b73a5-6592-4d17-8319-0076f0b111f5.png"> | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/162658376-c0578881-0589-4dec-b770-3e276b58a550.png"> | <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/162657737-df5f4320-7f6e-4089-a9ee-d5cf3c0fc649.png"> 
 |:--:|:--:|:--:|
 | *`figure 1.3: Add new flower details validation`* | *`figure 1.4: Adding flower details`* | *`figure 1.6: Update flower details`* | 
 
