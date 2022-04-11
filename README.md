@@ -1,4 +1,4 @@
-# Learn A Flower App
+# 🌷 Learn A Flower App
 
 A mobile application to help anyone learn about flowers! 🌻
 
